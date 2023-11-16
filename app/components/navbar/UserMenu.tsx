@@ -62,7 +62,7 @@ Airbnd Your Home
 <AiOutlineMenu  onClick={toggleOpen}
 />
  <div className='hidden md:block '>
-<Avatar src={currentUser?.image}  />
+<Avatar src='/images/placeholder.jpg'  />
  </div>
  </div>
       </div>
